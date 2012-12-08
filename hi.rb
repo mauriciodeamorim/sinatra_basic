@@ -13,4 +13,3 @@ get '/code' do
   @mau = Time.now
   erb :code
 end
-
